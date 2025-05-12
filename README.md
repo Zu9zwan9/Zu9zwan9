@@ -13,9 +13,9 @@
 ---
 
 ### 👨‍💻 What I’m Working On
-- ⏱️ **Time Tracker Planner**  
-  - *Description*: A productivity app to manage tasks, track time, and boost efficiency with actionable insights.  
-  - *Highlights*: Features a sleek, user-friendly interface and real-time tracking powered by robust backend logic.
+- 🌊 **FLOWO**  
+  - *Description*: A workflow automation tool designed to simplify repetitive tasks and enhance team productivity.  
+  - *Highlights*: Integrates intuitive UI with powerful backend automation, leveraging **Flutter** and **Dart**.
 
 ---
 
@@ -24,10 +24,6 @@
 - 🚗 **Real-Time Car Auction Platform**  
   - *Description*: A dynamic platform for bidding on used cars in real time, complete with secure authentication.  
   - *Highlights*: Built with **Socket.io** for live updates and includes an admin dashboard for streamlined auction management.
-
-- 🌊 **FLOWO**  
-  - *Description*: A workflow automation tool designed to simplify repetitive tasks and enhance team productivity.  
-  - *Highlights*: Integrates intuitive UI with powerful backend automation, leveraging **Flutter** and **Dart**.
 
 - 💳 **cWallet**  
   - *Description*: A secure digital wallet app for managing transactions and finances on the go.  
