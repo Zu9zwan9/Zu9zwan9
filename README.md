@@ -3,7 +3,7 @@
 
 <!-- Introduction section -->
 <p align="left">
-  Welcome to my GitHub! I’m a proactive software developer with a keen interest in crafting efficient, scalable applications. I’m currently diving deep into <strong>Flutter</strong> for cross-platform mobile development while honing my skills across both backend and frontend technologies. My goal? To build seamless, user-centric experiences that solve real-world problems.
+  Welcome to my GitHub! I’m a proactive software developer with a keen interest in crafting efficient, scalable applications. I’m currently diving deep into <strong>Flutter/Dart</strong> for cross-platform mobile development while honing my skills across both backend and frontend technologies. My goal? To build seamless, user-centric experiences that solve real-world problems.
 </p>
 
 <div align="center">
@@ -13,7 +13,7 @@
 ---
 
 ### 👨‍💻 What I’m Working On
-- 🌊 **FLOWO**  
+- 🌊 **Flowo**  
   - *Description*: A workflow automation tool designed to simplify repetitive tasks and enhance team productivity.  
   - *Highlights*: Integrates intuitive UI with powerful backend automation, leveraging **Flutter** and **Dart**.
 
