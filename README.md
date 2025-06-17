@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maksym Ivko</h1>
+<h1 align="center">Hi 👋, I'm Maksym</h1>
 <h3 align="center">Full-Stack Developer | Building Scalable, Gamified Mobile Apps with Flutter</h3>
 
 <p align="center">
