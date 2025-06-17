@@ -1,43 +1,62 @@
 <h1 align="center">Hi 👋, I'm Maksym Ivko</h1>
-<h3 align="center">Software Developer | Passionate About Scalable Solutions & Mobile Innovation</h3>
+<h3 align="center">Full-Stack Developer | Building Scalable, Gamified Mobile Apps with Flutter</h3>
 
-<!-- Introduction section -->
-<p align="left">
-  Welcome to my GitHub! I’m a proactive software developer with a keen interest in crafting efficient, scalable applications. I’m currently diving deep into <strong>Flutter/Dart</strong> for cross-platform mobile development while honing my skills across both backend and frontend technologies. My goal? To build seamless, user-centric experiences that solve real-world problems.
+<p align="center">
+  I'm a Software Engineer and co-founder of <strong>Flowo</strong>, a neuro-inclusive planning app designed for ADHD users. With expertise in <strong>Flutter</strong>, <strong>Dart</strong>, and Clean Architecture, I craft cross-platform mobile apps that prioritize user experience, scalability, and performance. Currently, I'm driving <strong>RoadWise</strong>, a gamified app for learning traffic rules, and <strong>BeerTinder</strong>, a social app for beer enthusiasts. My mission: create intuitive solutions that solve real-world problems with empathy and precision.
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zu9zwan9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false" height="150" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zu9zwan9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=true" height="150" alt="Top languages" />
 </div>
 
 ---
 
 ### 👨‍💻 What I’m Working On
-- 🌊 **Flowo**  
-  - *Description*: A workflow automation tool designed to simplify repetitive tasks and enhance team productivity.  
-  - *Highlights*: Integrates intuitive UI with powerful backend automation, leveraging **Flutter** and **Dart**.
+
+
+- 🚗 **RoadWise**  
+  - *Description*: A Duolingo-style mobile app for learning road signs and traffic rules, built with Flutter for iOS, Android, and Web.  
+  - *Highlights*:  
+    - Clean Architecture with **flutter_bloc**, **go_router**, and **Isar** for offline-first sync.  
+    - Freemium model with adaptive learning, leaderboards, and in-app purchases.  
+  - *Repo*: [Link to repo](https://github.com/Zu9zwan9/roadwise)
+
+- 🍺 **BeerTinder**  
+  - *Description*: A social app connecting beer enthusiasts via a Tinder-style swipe interface, built with Flutter and Clean Architecture.  
+  - *Highlights*:  
+    - Real-time geolocation for nearby bars/users with secure permission handling.  
+    - Glassmorphic/Neumorphic UI with smooth hero transitions and gamified XP/badges.  
+    - CI/CD-ready with GitHub Actions for scalable deployment.  
+  - *Repo*: [Link to repo](https://github.com/Zu9zwan9/bartinder)
 
 ---
 
 ### 🛠️ Featured Projects
 
-- 🚗 **Real-Time Car Auction Platform**  
-  - *Description*: A dynamic platform for bidding on used cars in real time, complete with secure authentication.  
-  - *Highlights*: Built with **Socket.io** for live updates and includes an admin dashboard for streamlined auction management.
+- 🚀 **Flowo**  
+  - *Description*: A neuro-inclusive planning app for ADHD users, built with Flutter/Dart. Features flexible scheduling, visual timers, and AI-driven checklists powered by OpenAI.  
+  - *Highlights*:  
+    - Modular backend with PERT-based scheduling for non-linear planning.  
+    - UX research-driven design from 1:1 interviews with ADHD users.  
+    - Currently in private beta with positive feedback: “This feels made for me.”  
+  - *Link*: [flowoapp.me](https://flowoapp.me)
 
-- 💳 **cWallet**  
-  - *Description*: A secure digital wallet app for managing transactions and finances on the go.  
-  - *Highlights*: Developed with **React Native** for a smooth cross-platform experience and fortified with encryption for data security.
 
 ---
 
 ### 🌱 What I’m Learning
-- **Flutter**: Crafting beautiful, performant mobile apps for iOS and Android.   
+- Advanced **Flutter** animations and offline-first architecture.  
+- **GraphQL** for efficient API design.  
+- **CI/CD** pipelines with GitHub Actions and CodeMagic.
 
 ---
 
 ### 🧰 Tech Stack
-<div align="left">
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" title="Flutter" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" title="Dart" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
@@ -45,8 +64,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" title="Flutter" />
 </div>
 
 ---
@@ -54,6 +71,7 @@
 ### 📫 Let’s Connect
 - **Email**: [maksym.ivko0@gmail.com](mailto:maksym.ivko0@gmail.com)  
 - **LinkedIn**: [Maksym Ivko](https://www.linkedin.com/in/maksym-ivko)  
+- **Website**: [flowoapp.me](https://flowoapp.me)
 
 ---
 
