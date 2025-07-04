@@ -1,55 +1,73 @@
 <h1 align="center">Hi 👋, I'm Maksym</h1>
-<h3 align="center">Full-Stack Developer | Building Scalable, Gamified Mobile Apps with Flutter</h3>
+<h3 align="center">Full-Stack Developer | Crafting Scalable, Gamified Mobile Apps with Flutter</h3>
 
 <p align="center">
-  I'm a Software Engineer and co-founder of <strong>Flowo</strong>, a neuro-inclusive planning app designed for ADHD users. With expertise in <strong>Flutter</strong>, <strong>Dart</strong>, and Clean Architecture, I craft cross-platform mobile apps that prioritize user experience, scalability, and performance. Currently, I'm driving <strong>RoadWise</strong>, a gamified app for learning traffic rules, and <strong>BeerTinder</strong>, a social app for beer enthusiasts. My mission: create intuitive solutions that solve real-world problems with empathy and precision.
+  I’m a Software Engineer and co-founder of <strong>Flowo</strong> — a neuro-inclusive planning app designed for ADHD users. With a deep focus on <strong>Flutter</strong>, <strong>Dart</strong>, and <strong>Clean Architecture</strong>, I specialize in cross-platform development that prioritizes accessibility, performance, and joy. Currently, I'm leading two projects: <strong>RoadWise</strong>, a gamified app for learning traffic rules, and <strong>BeerTinder</strong>, a social discovery app for beer lovers. My mission is to build delightful, human-centered tools that solve real-world problems with empathy and precision.
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zu9zwan9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=true" height="150" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zu9zwan9&layout=compact&langs_count=10&theme=dracula&hide_border=true" height="150" alt="Top languages" />
 </div>
 
 ---
 
-### 👨‍💻 What I’m Working On
+### 🚀 What I’m Building
 
+#### 🚗 RoadWise  
+A Duolingo-style mobile app that helps users learn traffic signs and road rules — designed for iOS, Android, and Web.
 
-- 🚗 **RoadWise**  
-  - *Description*: A Duolingo-style mobile app for learning road signs and traffic rules, built with Flutter for iOS, Android, and Web.  
-  - *Highlights*:  
-    - Clean Architecture with **flutter_bloc**, **go_router**, and **Isar** for offline-first sync.  
-    - Freemium model with adaptive learning, leaderboards, and in-app purchases.  
-  - *Repo*: [Link to repo](https://github.com/Zu9zwan9/roadwise)
+- 🔧 Built with **Flutter**, **flutter_bloc**, **go_router**, **get_it**, and **Isar** for offline-first sync.
+- 📱 Cupertino-compliant UI with animated streaks, mascots, and glowing XP confetti.
+- 🧠 Adaptive learning paths, quizzes, and leaderboards.
+- 💰 Freemium model with in-app purchases and tiered subscriptions.
 
-- 🍺 **BeerTinder**  
-  - *Description*: A social app connecting beer enthusiasts via a Tinder-style swipe interface, built with Flutter and Clean Architecture.  
-  - *Highlights*:  
-    - Real-time geolocation for nearby bars/users with secure permission handling.  
-    - Glassmorphic/Neumorphic UI with smooth hero transitions and gamified XP/badges.  
-    - CI/CD-ready with GitHub Actions for scalable deployment.  
-  - *Repo*: [Link to repo](https://github.com/Zu9zwan9/bartinder)
+🔗 [View Repository](https://github.com/Zu9zwan9/roadwise)
 
 ---
 
-### 🛠️ Featured Projects
+#### 🍺 SipSwipe
+A social-first app that connects beer lovers through a Tinder-style swipe interface and real-time bar discovery.
 
-- 🚀 **Flowo**  
-  - *Description*: A neuro-inclusive planning app for ADHD users, built with Flutter/Dart. Features flexible scheduling, visual timers, and AI-driven checklists powered by OpenAI.  
-  - *Highlights*:  
-    - Modular backend with PERT-based scheduling for non-linear planning.  
-    - UX research-driven design from 1:1 interviews with ADHD users.  
-    - Currently in private beta with positive feedback: “This feels made for me.”  
-  - *Link*: [flowoapp.me](https://flowoapp.me)
+- 🍻 Discover nearby people and bars based on geolocation and beer preferences.
+- 🎨 Glassmorphic + Neumorphic UI with custom hero animations.
+- 🛠 Built with **Flutter**, **BLoC**, **PostgreSQL (via Supabase)**, and **real-time chat**.
+- 🏅 Gamified: badges, XP, achievements, and partner bar discounts for subscribers.
+- 🚀 CI/CD-ready with GitHub Actions.
 
+🔗 [View Repository](https://github.com/Zu9zwan9/bartinder)
+🌐 [SipSwipe](https://sipswipe-landing.vercel.app/)
+
+---
+
+### 🌟 Featured: Flowo
+
+#### 🧠 Flowo — Planning Reimagined for ADHD Minds  
+A neuro-inclusive, visual-first planner designed to work with — not against — the ADHD brain.
+
+- 🧩 Modular backend with PERT-style scheduling and AI-powered smart checklists.
+- 🎯 UX designed from direct research interviews with neurodivergent users.
+- ✨ Features: flexible time-blocking, dopamine-tuned animations, focus timers.
+- 🔒 Currently in private beta — growing with real feedback and strong traction.
+
+🌐 [flowoapp.me](https://flowoapp.me)
 
 ---
 
-### 🌱 What I’m Learning
-- Advanced **Flutter** animations and offline-first architecture.  
-- **GraphQL** for efficient API design.  
-- **CI/CD** pipelines with GitHub Actions and CodeMagic.
+### 📚 What I'm Exploring
+
+- 🎨 Advanced **Flutter animations** and material motion design.
+- 🌍 **GraphQL** and Supabase/PostgreSQL for real-time, scalable APIs.
+- ⚙️ DevOps with **GitHub Actions**, **Codemagic**, and analytics integration (Mixpanel, Amplitude).
 
 ---
+
+### 🤝 Let’s Connect
+
+Feel free to reach out or collaborate — I love talking about product design, neurodivergent UX, and bold ideas that make life better.
+
+---
+
+
 
 ### 🧰 Tech Stack
 <div align="center">
