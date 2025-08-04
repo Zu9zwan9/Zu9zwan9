@@ -35,7 +35,7 @@ A social-first app that connects beer lovers through a Tinder-style swipe interf
 - 🚀 CI/CD-ready with GitHub Actions.
 
 🔗 [View Repository](https://github.com/Zu9zwan9/bartinder)
-🌐 [SipSwipe](https://sipswipe-landing.vercel.app/)
+🌐 [SipSwipe](https://zu9zwan9.github.io/sipswipe-landing/))
 
 ---
 
@@ -49,7 +49,7 @@ A neuro-inclusive, visual-first planner designed to work with — not against �
 - ✨ Features: flexible time-blocking, dopamine-tuned animations, focus timers.
 - 🔒 Currently in private beta — growing with real feedback and strong traction.
 
-🌐 [flowoapp.me](https://flowoapp.me)
+🌐 [flowo.tech](https://flowo.tech)
 
 ---
 
@@ -89,7 +89,7 @@ Feel free to reach out or collaborate — I love talking about product design, n
 ### 📫 Let’s Connect
 - **Email**: [maksym.ivko0@gmail.com](mailto:maksym.ivko0@gmail.com)  
 - **LinkedIn**: [Maksym Ivko](https://www.linkedin.com/in/maksym-ivko)  
-- **Website**: [flowoapp.me](https://flowoapp.me)
+- **Website**: [flowo.tech](https://flowo.tech)
 
 ---
 
