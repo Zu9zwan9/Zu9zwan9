@@ -1,99 +1,82 @@
 <h1 align="center">Hi 👋, I'm Maksym</h1>
-<h3 align="center">Full-Stack Developer | Crafting Scalable, Gamified Mobile Apps with Flutter</h3>
+<h3 align="center">Full Stack Software Engineer | Mobile & Web Application Developer</h3>
 
 <p align="center">
-  I’m a Software Engineer and co-founder of <strong>Flowo</strong> — a neuro-inclusive planning app designed for ADHD users. With a deep focus on <strong>Flutter</strong>, <strong>Dart</strong>, and <strong>Clean Architecture</strong>, I specialize in cross-platform development that prioritizes accessibility, performance, and joy. Currently, I'm leading two projects: <strong>RoadWise</strong>, a gamified app for learning traffic rules, and <strong>BeerTinder</strong>, a social discovery app for beer lovers. My mission is to build delightful, human-centered tools that solve real-world problems with empathy and precision.
+I’m a <strong>Full Stack Engineer</strong> passionate about building <strong>scalable, user-centric applications</strong> that blend clean architecture with delightful user experiences.  
+My focus is on <strong>mobile app development with Flutter</strong> and <strong>modern web technologies</strong> like React, Node.js, and cloud platforms.  
+I enjoy turning ideas into production-ready products that people love to use.
 </p>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zu9zwan9&layout=compact&langs_count=50&theme=dracula&hide_border=true" height="150" alt="Top languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Zu9zwan9&layout=compact&langs_count=12&theme=dracula&hide_border=true&card_width=700" 
+    alt="Top languages" 
+  />
 </div>
-
 ---
 
-### 🚀 What I’m Building
+### 🌟 Featured Applications
 
 #### 🚗 RoadWise  
-A Duolingo-style mobile app that helps users learn traffic signs and road rules — designed for iOS, Android, and Web.
-
-- 🔧 Built with **Flutter**, **flutter_bloc**, **go_router**, **get_it**, and **Isar** for offline-first sync.
-- 📱 Cupertino-compliant UI with animated streaks, mascots, and glowing XP confetti.
-- 🧠 Adaptive learning paths, quizzes, and leaderboards.
-- 💰 Freemium model with in-app purchases and tiered subscriptions.
-
-🔗 [View Repository](https://github.com/Zu9zwan9/roadwise)
+A gamified mobile app that helps learners master traffic rules and signs.  
+- Built with **Flutter, Isar, BLoC, go_router**.  
+- Features: adaptive learning, leaderboards, streaks, and confetti animations.  
+🔗 [Repository](https://github.com/Zu9zwan9/roadwise)
 
 ---
 
-#### 🍺 SipSwipe
-A social-first app that connects beer lovers through a Tinder-style swipe interface and real-time bar discovery.
-
-- 🍻 Discover nearby people and bars based on geolocation and beer preferences.
-- 🎨 Glassmorphic + Neumorphic UI with custom hero animations.
-- 🛠 Built with **Flutter**, **BLoC**, **PostgreSQL (via Supabase)**, and **real-time chat**.
-- 🏅 Gamified: badges, XP, achievements, and partner bar discounts for subscribers.
-- 🚀 CI/CD-ready with GitHub Actions.
-
-🔗 [View Repository](https://github.com/Zu9zwan9/bartinder)
-🌐 [SipSwipe](https://zu9zwan9.github.io/sipswipe-landing/))
+#### 🍺 SipSwipe  
+A social discovery app for beer lovers with Tinder-style swiping and a bar finder.  
+- Built with **Flutter + Supabase (PostgreSQL, real-time)**.  
+- Features: chat, geolocation, gamification, partner bar discounts.  
+🔗 [Repository](https://github.com/Zu9zwan9/bartinder) · [Landing Page](https://zu9zwan9.github.io/sipswipe-landing/)
 
 ---
 
-### 🌟 Featured: Flowo
-
-#### 🧠 Flowo — Planning Reimagined for ADHD Minds  
-A neuro-inclusive, visual-first planner designed to work with — not against — the ADHD brain.
-
-- 🧩 Modular backend with PERT-style scheduling and AI-powered smart checklists.
-- 🎯 UX designed from direct research interviews with neurodivergent users.
-- ✨ Features: flexible time-blocking, dopamine-tuned animations, focus timers.
-- 🔒 Currently in private beta — growing with real feedback and strong traction.
-
+#### 🧠 Flowo  
+A neuro-inclusive planner app designed to support ADHD minds.  
+- Features: time-blocking, AI checklists, focus timers, dopamine-tuned UI.  
+- Built with **Flutter, Firebase (Auth, Firestore, Functions)**, CI/CD via GitHub Actions.  
 🌐 [flowo.tech](https://flowo.tech)
 
 ---
 
-### 📚 What I'm Exploring
+### 🧰 Technologies I Work With
 
-- 🎨 Advanced **Flutter animations** and material motion design.
-- 🌍 **GraphQL** and Supabase/PostgreSQL for real-time, scalable APIs.
-- ⚙️ DevOps with **GitHub Actions**, **Codemagic**, and analytics integration (Mixpanel, Amplitude).
-
----
-
-### 🤝 Let’s Connect
-
-Feel free to reach out or collaborate — I love talking about product design, neurodivergent UX, and bold ideas that make life better.
-
----
-
-
-
-### 🧰 Tech Stack
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" title="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" title="Flutter" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" title="Dart" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" title="Dart" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="Node.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" title="Firebase" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" title="GraphQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" title="Azure" />
 </div>
 
 ---
 
-### 📫 Let’s Connect
-- **Email**: [maksym.ivko0@gmail.com](mailto:maksym.ivko0@gmail.com)  
-- **LinkedIn**: [Maksym Ivko](https://www.linkedin.com/in/maksym-ivko)  
-- **Website**: [flowo.tech](https://flowo.tech)
+### 💡 What Drives Me
+- Designing apps with **clean architecture** and performance in mind.  
+- Building products that combine **functionality, accessibility, and joy**.  
+- Exploring **real-time APIs, CI/CD automation, and advanced mobile UX**.  
 
 ---
 
-> ⚡ *"The best way to predict the future is to invent it."* — Alan Kay
+### 📫 Let’s Connect
+- 📧 [maksym.bardakh@gmail.com](mailto:maksym.bardakh@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/maksym-ivko)  
+- 💻 [GitHub](https://github.com/Zu9zwan9)  
 
 ---
 
